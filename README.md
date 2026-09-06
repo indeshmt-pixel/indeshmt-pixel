@@ -18,7 +18,7 @@ An AI-powered creative tool that generates professional design concepts and deta
 - Express.js
 - Google Gemini API
 
-🌐 **Live Demo:** https://ai-creative-studio-u9z2.onrender.com
+🌐 **Live Demo:** https://ai-creative-studio-u9r2.onrender.com
 
 📂 **Project:** https://github.com/indeshmt-pixel/AI-Creative-Studio
 
